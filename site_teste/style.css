@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #FAEBEB;
+    margin: 15vh;
+}
+
+section{
+    background: white;
+    height: 88vh;
+    width: 78vw;
+    position: relative;
+    left: 12px;
+    display: flex;
+}
+
+.esquerda{
+    position: relative;
+    left: 61px;
+    top: 54px;
+}
+
+.text{
+    position: relative;
+    top: 15px;
+}
+
+.escreva{
+    position: relative;
+    top: 60px;
+}
+
+.escreva > input {
+    padding: 20px;
+    width: 25vw;
+}
+
+.digitar{
+    position: relative;
+    top: 80px;
+}
+
+.digitar > a{
+    position: relative;
+    top: 15px;
+}
+
+.digitar > p{
+    position: relative;
+    left: 214px;
+    bottom: 15px;
+    padding: 19px;
+    background: #132845;
+    height: 3vh;
+    width: 10vw;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.linha{
+    background-color: #8E919D;
+    height: 1px;
+    width: 286px;
+    position: relative;
+    top: 117px;
+}
+
+.text1{
+    position: relative;
+    top: 151px;
+    left: 93px;
+}
+
+.socia1{
+    width: 15px;
+}
+
+.socia2{
+    width: 25px;
+    position: relative;
+    top: 6px;
+}
+
+.logo{
+    position: relative;
+    top: 189px;
+}
+
+.redes1{
+    position: relative;
+    top: 2px;
+    border: solid 1px #e9e4e4 ;
+    width: 103px;
+    padding: 13px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.redes{
+    position: relative;
+    left: 152px;
+    bottom: 46px;
+    height: 37px ;
+    width: 132px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: solid 1px #e9e4e4;
+    text-align: center;
+    font-size: 17px;
+}
+
+
+.rodape{
+    position: relative;
+    top: 170px;
+    left: 59px;
+}
+
+.rodape > a {
+    position: relative;
+    left: 177px;
+    bottom: 18px; 
+    color: rgb(88, 247, 220);  
+}
+
+.imagem{
+    height: 88vh;
+    width: 41vw;
+    position: relative;
+    left: 235px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
